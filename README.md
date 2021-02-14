@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Gokul Suresh</h1>
 <h3>Im just an Aspiring Developer</h3>
-<em>Converting caffine to code</em>
+<em>Converting caffeine to code</em>
 
 - 🔭 I’m currently working on Cross-platform app dev
 
