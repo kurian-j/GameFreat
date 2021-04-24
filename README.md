@@ -8,6 +8,8 @@
 
 - 💬 About me [xenomech.netlify.app](http://xenomech.netlify.app)
 
+- 🎨 Just some of my animations showcase [xenomech.github.io/MotionTime](http://xenomech.github.io/MotionTime)
+
 - 📫 How to reach me gokulsmenon227@gmail.com
 
 - ✨ Fun fact : If it works, don't touch it! </br>
