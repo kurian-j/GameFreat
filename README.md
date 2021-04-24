@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Flutter
 
-- 💬 About me [xenomech.netlify.app](xenomech.netlify.app)
+- 💬 About me [xenomech.netlify.app](http://xenomech.netlify.app)
 
 - 📫 How to reach me gokulsmenon227@gmail.com
 
