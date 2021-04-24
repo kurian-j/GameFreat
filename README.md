@@ -12,6 +12,8 @@
 
 - ✨ Fun fact : If it works, don't touch it! </br>
 
+![alt-text](https://github.com/xenomech/xenomech/blob/main/data/logo.gif?raw=true)
+
 <h3><em>👨‍💻 I like to work with :</em></h3>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,5 +43,3 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenomech&label=Profile%20views&color=0e75b6&style=flat" alt="xenomech" /> </p>
-
-![alt-text](https://github.com/xenomech/xenomech/blob/main/data/logo.gif?raw=true)
