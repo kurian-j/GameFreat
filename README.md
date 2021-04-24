@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gokul Suresh</h1>
-<h3>Im just an Aspiring Developer</h3>
+<h3>I'm just an Aspiring Developer</h3>
 <em>Converting caffeine to code</em>
 
 - 🔭 I’m currently working on Cross-platform app dev
