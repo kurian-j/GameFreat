@@ -4,15 +4,9 @@
 
 - 🔭 I’m currently working on Cross-platform app dev
 
-
-
-<!-- - 💬 About me [xenomech.netlify.app](http://xenomech.netlify.app) -->
-
-<!-- - 🎨 Just some of my animations showcase [xenomech.github.io/MotionTime](http://xenomech.github.io/MotionTime) -->
-
 - 📫 How to reach me naveenbjacob123@gmail.com
 
-- ✨ Fun fact : If it works, don't touch it! </br>
+- ✨ Find the soul in the project that keeps you awake. </br>
 
 <!-- ![alt-text](https://github.com/xenomech/xenomech/blob/main/data/logo.gif?raw=true) -->
 
@@ -39,4 +33,4 @@
 <a href="https://www.linkedin.com/in/naveen-b-jacob/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GameFreat&label=Profile%20views&color=0e75b6&style=flat" alt="GameFreat" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GameFreat&label=Profile%20views&color=0e75b6&style=flat" alt="GameFreat" /> </p>
