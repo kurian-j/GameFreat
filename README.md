@@ -39,4 +39,4 @@
 <a href=" www.linkedin.com/in/gokulsmenon227">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/naveen-b-jacob/"/></a>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenomech&label=Profile%20views&color=0e75b6&style=flat" alt="xenomech" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GameFreat&label=Profile%20views&color=0e75b6&style=flat" alt="GameFreat" /> </p> -->
