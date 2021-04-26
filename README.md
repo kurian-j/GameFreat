@@ -36,7 +36,7 @@
 <a href="mailto:naveenbjacob123@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href=" www.linkedin.com/in/gokulsmenon227">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/naveen-b-jacob/"/></a>
+<a href="https://www.linkedin.com/in/naveen-b-jacob/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GameFreat&label=Profile%20views&color=0e75b6&style=flat" alt="GameFreat" /> </p> -->
